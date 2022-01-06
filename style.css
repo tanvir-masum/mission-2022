@@ -1,0 +1,30 @@
+h1{
+    font-size: 50px;
+}
+
+.skyblue-color{
+    color: skyblue;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left:15%;
+}
+.half-width img{
+    width: 80%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple, green);
+    background-color: purple;
+    padding: 10px 40px;
+    color: sandybrown;
+    font-weight: 700;
+    border-radius: 7px;
+}
