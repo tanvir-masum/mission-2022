@@ -1,3 +1,8 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Spline Sans', sans-serif;
+}
 h1{
     font-size: 50px;
 }
@@ -23,12 +28,19 @@ h1{
     border-left: 2px solid;
     
 }
+.top-sideber{
+    
+    font-size: 50px;
+    padding-left: 10px;
+    border-left: 3px solid goldenrod;
+
+}
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(purple, green);
-    background-color: purple;
+    background-image: linear-gradient(rgb(224, 156, 156),tomato);
+    
     padding: 10px 40px;
-    color: sandybrown;
+    color: white;
     font-weight: 700;
     border-radius: 7px;
 }
@@ -58,18 +70,21 @@ h1{
     text-align: center;
 }
 
+.j3{
+    margin-right: 8%;
+}
 
 #my-mission{
-    background-color: oceanblue;
+    background-color: rgb(199, 233, 247);
 
 }
 #my-vission{
-    background-color: palegoldenrod;
+    background-color: rgb(245, 229, 243);
 
 }
 
 #my-goals{
-    background-color: seashell;
+    background-color: rgb(236, 247, 226);
 
 }
 
@@ -84,7 +99,7 @@ h5 {
     color: tomato;
 }
 footer{
-    height: 100px;
+
     padding: 2%;
     background-color: black;
     text-align: center;
